@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/projeto-lista-de-tarefas/static/css/main.a9080162.css",
+    "main.js": "/projeto-lista-de-tarefas/static/js/main.91430f44.js",
+    "static/js/453.c0395376.chunk.js": "/projeto-lista-de-tarefas/static/js/453.c0395376.chunk.js",
+    "static/media/logo.svg": "/projeto-lista-de-tarefas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/projeto-lista-de-tarefas/index.html",
+    "main.a9080162.css.map": "/projeto-lista-de-tarefas/static/css/main.a9080162.css.map",
+    "main.91430f44.js.map": "/projeto-lista-de-tarefas/static/js/main.91430f44.js.map",
+    "453.c0395376.chunk.js.map": "/projeto-lista-de-tarefas/static/js/453.c0395376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9080162.css",
+    "static/js/main.91430f44.js"
+  ]
+}
